@@ -1,11 +1,12 @@
 # TuriGest JA
 
-Sistema de gestión turística municipal desarrollado para la Dirección de Turismo de Jardín América, Misiones, Argentina.
+Sistema de gestión turística municipal desarrollado para la **Dirección de Turismo de Jardín América**, Misiones, Argentina.
 
-## 🌐 Demo en vivo
-[turigest-ja.web.app](https://turigest-ja.web.app)
+## Demo en vivo
 
-## 📋 Funcionalidades
+**[turigest-ja.web.app](https://turigest-ja.web.app)**
+
+## Funcionalidades
 
 - **Gestión de visitantes** — Registro con origen, alojamiento, fechas y contacto. Exportación a CSV.
 - **Eventos y actividades** — Calendario con categorías, precios y detalles de contacto.
@@ -14,14 +15,13 @@ Sistema de gestión turística municipal desarrollado para la Dirección de Turi
 - **Reportes** — Generación automática de informes mensuales y comunicados de prensa.
 - **Multiusuario** — Niveles de acceso diferenciados para la dirección y los alojamientos.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - HTML5, CSS3, JavaScript
 - Firebase Realtime Database
 - Firebase Hosting
 
-## 👤 Autor
+## Autor
 
-**Enzo Gabriel Mantay**
-Director de Turismo — Jardín América, Misiones, Argentina
-[LinkedIn](https://linkedin.com/in/enzomantay)
+**Enzo Mantay** — Director de Turismo, Jardín América  
+[Portfolio](https://enzomantay-del.github.io) · [LinkedIn](https://www.linkedin.com/in/enzo-mantay-3602a6314/) · [GitHub](https://github.com/enzomantay-del)
