@@ -2,9 +2,9 @@
 
 Sistema de gestión turística municipal desarrollado para la **Dirección de Turismo de Jardín América**, Misiones, Argentina.
 
-## Demo en vivo
+## Estado
 
-**[turigest-ja.web.app](https://turigest-ja.web.app)**
+Sistema **en producción** en la Municipalidad de Jardín América. Acceso restringido al personal autorizado (no es una demo pública).
 
 ## Funcionalidades
 
